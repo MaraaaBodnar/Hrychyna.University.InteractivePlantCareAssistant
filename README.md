@@ -153,3 +153,8 @@ Week 12:
 - Publish project on GitHub repository and Azure platform
 - Celebrate project completion and success!
 
+Anti-Lab2:
+- Maria Bodnar
+- https://github.com/MaraaaBodnar/Bodnar.University.Miro_Board.git
+-
+
