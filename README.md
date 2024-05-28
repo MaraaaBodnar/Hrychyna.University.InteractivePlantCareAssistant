@@ -156,5 +156,5 @@ Week 12:
 Anti-Lab2:
 - Maria Bodnar
 - https://github.com/MaraaaBodnar/Bodnar.University.Miro_Board.git
--
+- https://github.com/MaraaaBodnar/Hrychyna.University.InteractivePlantCareAssistant/pull/1
 
